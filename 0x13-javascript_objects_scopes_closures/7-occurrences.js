@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/node
 
 const nbOccurences = (list, searchElement) => {
   let i = 0; let count = 0;
